@@ -91,6 +91,12 @@ color:#ff8c3a;
 
 }
 
+nav a[aria-current="page"]{
+
+color:#ff8c3a;
+
+}
+
 
 
 
